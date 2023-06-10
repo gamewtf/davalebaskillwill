@@ -1,0 +1,14 @@
+{
+  "name": "davaleba",
+  "version": "1.0.0",
+  "description": "xd",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
